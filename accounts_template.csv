@@ -1,0 +1,4 @@
+first_name,last_name,email,password,recovery_email,birth_date,gender
+John,Doe,john.doe.2024@gmail.com,SecurePass123!,recovery@email.com,1990-01-15,Male
+Jane,Smith,jane.smith.2024@gmail.com,SecurePass456!,recovery@email.com,1992-03-22,Female
+Michael,Johnson,michael.j.2024@gmail.com,SecurePass789!,recovery@email.com,1988-07-10,Male
